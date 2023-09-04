@@ -1,9 +1,9 @@
 
 ### Fala galera, prazer me chamo Mike Wisllen 🤓
 
-- 👨‍💻 Developer front-end
-- 🗿  Javascript player
-- 📚 estudante eterno 
+- 👨‍💻 Desenvolvedor Back-end
+- 🗿  Player da linguagem C
+- 📚 Programação / ADS
 ##
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-wisllen-272388101)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mikewisllen/)
