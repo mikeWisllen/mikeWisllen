@@ -16,7 +16,7 @@
    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
    <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-   <img align="right" alt="Mikegif" height="150" width="230" src="https://cdn.discordapp.com/attachments/1031648385595346966/1067352293265117204/01a.gif?ex=66ed2ac9&is=66ebd949&hm=866d9dc316cafa6df4c4e07414a7f7cd7753226d6013bc3bde87a0cfe94a0e33&">
+   <img align="right" alt="Mikegif" height="150" width="200" src="https://cdn.discordapp.com/attachments/1031648385595346966/1067352293265117204/01a.gif?ex=66ed2ac9&is=66ebd949&hm=866d9dc316cafa6df4c4e07414a7f7cd7753226d6013bc3bde87a0cfe94a0e33&">
 </div><br/> 
 
 ##
