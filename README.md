@@ -1,4 +1,3 @@
-
 ### Fala galera, prazer me chamo Mike Wisllen 🤓
 
 - 👨‍💻 Desenvolvedor Back-end
@@ -12,10 +11,10 @@
 
 ### Tecnologias que ultilizo
 <div style="display: inline_block"><br/>
-   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-   <img align="center" alt=".NET" src="file:///C:/Users/mike_marinho/Downloads/dotnet.svg" />
-   <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+   <img align="center" alt="C" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+   <img align="center" alt="C#" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+   <img align="center" alt=".NET" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />       
+   <img align="center" alt="Lua" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
    <img align="right" alt="Mikegif" height="150" width="200" src="https://raw.githubusercontent.com/JamesNK/Newtonsoft.Json/master/Doc/icons/logo.jpg">
 </div><br/> 
 
