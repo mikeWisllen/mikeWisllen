@@ -22,7 +22,7 @@
    <img align="center" alt="C#" height ="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
    <img align="center" alt=".NET" height ="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />       
    <img align="center" alt="Lua" height ="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-   <img align="right" alt="Mikegif" height="150" width="200" src="[[https://raw.githubusercontent.com/JamesNK/Newtonsoft.Json/master/Doc/icons/logo.jpg](https://e7.pngegg.com/pngimages/988/411/png-clipart-shinji-ikari-rei-ayanami-mug-asuka-langley-soryu-coffee-cup-mug-white-child.png)](https://cdn.discordapp.com/attachments/1031648385595346966/1067352293265117204/01a.gif?ex=67228f89&is=67213e09&hm=8e9e7c399d78c77b1210a70c2997365c294ce35be2e237b5eeab4b497863eb86&)">
+   <img align="right" alt="Mikegif" height="150" width="200" src="https://cdn.discordapp.com/attachments/1031648385595346966/1067352293265117204/01a.gif?ex=67228f89&is=67213e09&hm=8e9e7c399d78c77b1210a70c2997365c294ce35be2e237b5eeab4b497863eb86&">
 </div><br/> 
 
 ##
