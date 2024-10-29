@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mike+Wisllen;I'm+29+years+old;I+am+from+Manaus,+AM;I+Analysis+and+systems+development+at+Indutri+Amazon;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mike+Wisllen;I'm+29+years+old;I+am+from+Manaus,+AM;I+Analysis+and+systems+development+at+Amazonas+industry;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 - 👨‍💻 Desenvolvedor Back-end
 - 🗿  Player da linguagem C# / .Net
@@ -22,7 +22,7 @@
    <img align="center" alt="C#" height ="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
    <img align="center" alt=".NET" height ="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />       
    <img align="center" alt="Lua" height ="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-   <img align="right" alt="Mikegif" height="150" width="200" src="https://raw.githubusercontent.com/JamesNK/Newtonsoft.Json/master/Doc/icons/logo.jpg">
+   <img align="right" alt="Mikegif" height="150" width="200" src="[https://raw.githubusercontent.com/JamesNK/Newtonsoft.Json/master/Doc/icons/logo.jpg](https://e7.pngegg.com/pngimages/988/411/png-clipart-shinji-ikari-rei-ayanami-mug-asuka-langley-soryu-coffee-cup-mug-white-child.png)">
 </div><br/> 
 
 ##
