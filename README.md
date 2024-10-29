@@ -11,10 +11,10 @@
 
 ### Tecnologias que ultilizo
 <div style="display: inline_block"><br/>
-   <img align="center" alt="C" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-   <img align="center" alt="C#" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-   <img align="center" alt=".NET" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />       
-   <img align="center" alt="Lua" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+   <img align="center" alt="C" height ="30 width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+   <img align="center" alt="C#" height ="30 width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+   <img align="center" alt=".NET" height ="30 width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />       
+   <img align="center" alt="Lua" height ="30 width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
    <img align="right" alt="Mikegif" height="150" width="200" src="https://raw.githubusercontent.com/JamesNK/Newtonsoft.Json/master/Doc/icons/logo.jpg">
 </div><br/> 
 
